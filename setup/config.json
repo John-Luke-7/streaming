@@ -1,6 +1,6 @@
 {
   "setup": {
-    "city": "mae sai",
+    "city": "SAMP-RP",
     "delay": 5
   },
   "config": {
@@ -8,21 +8,21 @@
       "watch-url": ["https://www.youtube.com/watch?v=2LBBaD1aQuw"],
       "timestamp": "{start}"
     },
-    "text-1": ["TEXT 1"],
-    "text-2": ["TEXT 2"],
-    "text-3": ["TEXT 3"],
+    "text-1": ["Playing NGRP"],
+    "text-2": ["As : Duggles_D_Xebec"],
+    "text-3": ["Kidney 🍒"],
     "bigimg": ["{default:bigimg}"],
     "smallimg": ["{default:smallimg}"],
     "button-1": [
       {
-        "name": "BUTTON 1",
-        "url": "https://discord.gg/XDPfrU4E9G"
+        "name": "JOIN NGRP",
+        "url": "https://discord.gg/ngrpkl"
       }
     ],
     "button-2": [
       {
-        "name": "BUTTON 2",
-        "url": "https://discord.gg/XDPfrU4E9G"
+        "name": "GOOGLE CHROME",
+        "url": "https://google.com"
       }
     ]
   }
