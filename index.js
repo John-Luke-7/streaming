@@ -10,3 +10,6 @@ const launcherObject = {
 launcher(launcherObject, async (run) => {
   await run();
 });
+
+const mySecret = process.env['TOKEN'];
+client.login(mySecret);
